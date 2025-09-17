@@ -8,7 +8,7 @@
 .hero{
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(45deg, #1d0000, #20205b);
+    background: linear-gradient(45deg, #5761B2, #1FC5A8);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -47,4 +47,5 @@
 #date{
     font-size: 100px;
     line-height: 90px;
+
 }
